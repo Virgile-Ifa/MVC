@@ -1,0 +1,17 @@
+
+    <!-- <h1>Ajouter un rôle à un muscien</h1>
+    <form action="../Controllers/indexController.php" method="post">
+        <label for="">Liste des rôles</label>
+        <select name="role" id="">
+            <?php 
+                require_once "selectRole.php";
+            ?>
+        </select>
+        <label for="">Liste des musiciens</label>
+        <select name="musicien" id="">
+            <?php 
+                require_once "selectMusicien.php";
+            ?>
+        </select>
+        <button type="submit">ajouter</button>
+    </form> -->
